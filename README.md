@@ -64,4 +64,4 @@ This README provides an overview of the project objectives, requirements, and gr
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE.md) file for more details.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
